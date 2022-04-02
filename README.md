@@ -1,2 +1,0 @@
-# soloPorHoy
-mi primer commit
